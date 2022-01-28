@@ -355,3 +355,15 @@ var articulosBaratos = articulos.some(function(articulo){
     var incluyeNumero = numeros.includes(2);
     
     console.log(incluyeNumero);
+
+//---------------------------------------------------------------------------------------------------------//
+
+var TRABAJADORES = [
+        { nombre: 'PEDRO', SUELDO: 3000 },
+        { nombre: 'MIGUEL', SUELDO: 2500 },
+        { nombre: 'MOY', SUELDO: 3200 },
+        { nombre: 'JIMENA', SUELDO: 10000 },
+        { nombre: 'SUSANA', SUELDO: 20000 },
+        { nombre: 'LORENZO', SUELDO: 500 },
+        { nombre: 'NIEVES', SUELDO: 1700 }
+        ]
